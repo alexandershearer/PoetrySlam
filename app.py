@@ -46,7 +46,6 @@ def lines_printed_custom(filename):
     line_list = [line.strip() for line in filename]
 
     for line in line_list:
-        #Print every line in all uppercase 
         print(line.upper())
 
 #lines_printed_custom(poem)
