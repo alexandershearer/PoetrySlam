@@ -44,7 +44,7 @@ print("--------------------------")
 
 def lines_printed_custom(filename):
     line_list = [line.strip() for line in filename]
-
+    #Printing each line in all uppercase
     for line in line_list:
         print(line.upper())
 
