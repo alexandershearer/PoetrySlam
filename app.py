@@ -1,6 +1,6 @@
 import random
 
-#Opem the txt file and store it into a variable
+#Open the txt file and store it into a variable
 poem = open('./poem.txt', 'r')
 
 #Function to print every line of the txt file
