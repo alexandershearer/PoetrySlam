@@ -11,7 +11,6 @@ def get_file_lines(filename):
 
 get_file_lines(poem)
 print("--------------------------")
-print("--------------------------")
 
 #Function to print the entire poem starting with last line
 def lines_printed_backwards(filename):
